@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOY_DIR=${app_dir}/public_html/igreen.infoengg.com
+    - /bin/cp -R * ${DEPLOY_DIR}
+    - /bin/rm -rf ${DEPLOY_DIR}/{.cpanel,.git,.gitignore,.next,node_modules,.npmrc,.yarnrc,.env,.env.local}
