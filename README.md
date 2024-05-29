@@ -28,8 +28,6 @@ iGreen is a collaborative project designed to catalog and provide information on
 - **Community Engagement**: Encourage student and community participation in environmental conservation.
 
 ![Screenshot](assets/screen1.png)
-![Screenshot](assets/screen2.png)
-![Screenshot](assets/screen3.png)
 
 ## Getting Started
 
