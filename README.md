@@ -27,7 +27,7 @@ iGreen is a collaborative project designed to catalog and provide information on
 - **Sustainability**: Promote sustainable practices by highlighting the benefits of trees.
 - **Community Engagement**: Encourage student and community participation in environmental conservation.
 
-![Screenshot](assets/screen1.png)
+![Screenshot](assets/screen.png)
 
 ## Getting Started
 
