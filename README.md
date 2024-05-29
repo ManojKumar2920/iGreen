@@ -43,7 +43,7 @@ To get started with iGreen, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/iGreen.git
+   git clone https://github.com/ManojKumar2920/iGreen.git
    ```
 
 2. **Navigate to the Project Directory**
