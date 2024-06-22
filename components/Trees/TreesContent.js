@@ -10,6 +10,11 @@ import PeepalTree from '@/assets/peepalTree.JPG';
 import PhoenixTree from '@/assets/phoenixtree.JPG';
 import Ravenala from '@/assets/ravenala.JPG';
 import ThailandShower from '@/assets/thailandshower.JPG';
+import Pomegranate from '@/assets/pomegrante.webp';
+import JeffreyPine from '@/assets/jeffreypine.jpg';
+import HistoniaMacrophylla from '@/assets/HistoniaMacrophylla.jpg';
+import PinkOleander from '@/assets/pinkoleander.webp';
+
 import { IoMdArrowRoundForward as Arrow } from "react-icons/io";
 
 const TreesContent = [
@@ -132,6 +137,46 @@ const TreesContent = [
         image: ThailandShower,
         icon: <Arrow />,
         slug: 'thailand-shower'
+    },
+    {
+        treename: 'Pink Oleander',
+        scientificname: 'Nerium oleander',
+        smalldesc: "Nerium oleander, commonly known as Pink Oleander, is an evergreen shrub or small tree known for its vibrant pink flowers. It is drought-tolerant and often used in landscaping for its beauty and resilience. However, all parts of the plant are highly toxic if ingested.",
+        desc: "Meet the Pink Oleander, scientifically known as Nerium oleander. This charming little shrub, with its eye-catching pink flowers, adds a splash of color to any garden. As a bonus, it's drought-tolerant, so you can neglect it and it'll still look fabulous. Just remember, every part of this plant is highly toxic, so it's perfect for those who enjoy living on the edge and like to keep their pets and kids on their toes!",
+        funny:"The Pink Oleander (Nerium oleander) is like that person who looks stunning and can endure any hardship—thriving in poor soil, intense heat, and drought. Just like some people.",
+        image: PinkOleander,
+        icon: <Arrow />,
+        slug: 'pink-oleander'
+    },
+    {
+        treename: 'Histonia Macrophylla',
+        scientificname: 'Hiptage benghalensis',
+        smalldesc: "Hiptage benghalensis, commonly known as Hiptage or Histonia macrophylla, is a fast-growing, woody climbing vine or shrub with fragrant white, yellow, or pink flowers. It is often found in tropical and subtropical regions and is prized for its ornamental beauty.",
+        desc: "Meet Hiptage benghalensis, the overachiever of the plant world. This rapid climber will take over your garden in no time, with its lush foliage and fragrant flowers. Perfect for those who want a plant that’s as invasive as their nosy neighbor, it’ll make sure no other plants stand a chance. Enjoy the beautiful blooms while they slowly smother everything else you’ve planted!",
+        funny:"Hiptage benghalensis is like that friend who’s effortlessly charming and always steals the show. With its rapid growth and beautiful, fragrant flowers, it thrives almost anywhere,",
+        image: HistoniaMacrophylla,
+        icon: <Arrow />,
+        slug: 'histonia-macrophylla'
+    },
+    {
+        treename: 'Pomegranate',
+        scientificname: 'Punica granatum',
+        smalldesc: "Punica granatum, commonly known as pomegranate, is a deciduous shrub or small tree known for its bright red fruit filled with juicy, jewel-like seeds. It is native to the region stretching from Iran to northern India and has been cultivated throughout the Mediterranean and other warm climates.",
+        desc: "Meet the pomegranate, Punica granatum, the fruit that’s like a DIY project. With its tough skin and countless tiny seeds, it offers a delightful challenge for those who think eating should come with extra effort. Enjoy the sweet, tangy arils—if you have the patience to get to them! Punica granatum, commonly known as pomegranate, is a deciduous shrub or small tree known for its bright red fruit filled with juicy, jewel-like seeds. It is native to the region stretching from Iran to northern India and has been cultivated throughout the Mediterranean and other warm climates.",
+        funny:"The pomegranate is like that friend who’s hard to get to know but worth the effort. You have to get past the tough exterior and deal with some complications (those seeds!), but once you do, you’re rewarded with something incredibly rich and satisfying.",
+        image: Pomegranate,
+        icon: <Arrow />,
+        slug: 'Pomegranate'
+    },
+    {
+        treename: 'Jeffrey Pine',
+        scientificname: 'Pinus jeffreyi',
+        smalldesc: "Pinus jeffreyi, commonly known as Jeffrey Pine, is a large coniferous tree native to the mountains of the western United States. It has long, bluish-green needles and large, distinctive cones. The tree is known for its pleasant vanilla or pineapple scent emitted from its bark.",
+        desc: "Meet the Jeffrey Pine, Pinus jeffreyi, the tree that smells like a dessert but is definitely not edible. Standing tall and proud, it’s perfect for those who want a majestic tree that occasionally drops massive cones on unsuspecting passersby. Enjoy the refreshing scent of vanilla and pineapple—just don’t expect it to make your life any easier.",
+        funny:"The Jeffrey Pine is like that person who always smells amazing and stands out in a crowd. With its towering height and fragrant bark, it's hard to miss. Just like someone who seems great until you get to know them, this tree can drop hefty cones that can be quite a nuisance if you're not paying attention!",
+        image: JeffreyPine,
+        icon: <Arrow />,
+        slug: 'jeffrey-pine'
     },
 
 ];
